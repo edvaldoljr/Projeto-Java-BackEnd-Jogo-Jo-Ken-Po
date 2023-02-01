@@ -1,6 +1,6 @@
 # **Projeto Jo-Ken-Pô**
 
-![]()
+![](https://github.com/edvaldoljr/Projeto-Java-BackEnd-Jogo-Jo-Ken-Po/blob/main/img/img-projeto.gif?raw=true)
 
 Este projeto é um jogo clássico de Jo-Ken-Po que permite ao usuário jogar contra uma inteligência artificial. O objetivo é escolher entre Pedra, Papel ou Tesoura e marcar mais pontos que a IA em um determinado número de rodadas. Ao iniciar o jogo, o usuário é solicitado a informar seu nome e quantas rodadas deseja jogar. A IA fará sua escolha aleatória em cada rodada e o resultado será exibido na tela. No final do jogo, o placar final será mostrado e o vencedor será declarado. Este projeto é uma ótima maneira de praticar programação e aprimorar suas habilidades de lógica. Além disso, é uma diversão garantida para todas as idades.
 
